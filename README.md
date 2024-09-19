@@ -29,7 +29,7 @@ USER.csv: Stores usernames and passwords for system login.
 
 **Technologies Used**
 
-Language: C
+Language: C++
 
 File Handling: CSV files for data storage
 
