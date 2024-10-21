@@ -70,7 +70,7 @@ void menu() {
     long long choice;
     system("clear");  // Clear the screen for Unix-based systems like macOS
     cout << "************WELCOME TO CHITKARA UNIVERSITY************" << endl;
-    cout << "************     HOSTEL ALLOTMENT: IBN    ************" << endl;
+    cout << "************     HOSTEL ALLOTMENT:        ************" << endl;
     cout << "************           MAIN MENU          ************" << endl;
     cout << "1. ENTER NEW STUDENT DETAILS" << endl;
     cout << "2. UPDATE STUDENT DETAILS" << endl;
